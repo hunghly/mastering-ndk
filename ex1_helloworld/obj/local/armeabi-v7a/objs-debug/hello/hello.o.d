@@ -1,430 +1,199 @@
-obj/local/armeabi-v7a/objs-debug/hello/hello.o: jni/hello.cpp \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/iostream \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_prolog.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_cprolog.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/config/features.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_stlport_version.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/config/user_config.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/config/compat.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/config/host.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/config/_system.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/config/_android.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/cdefs.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/cdefs_elf.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/android/api-level.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/config/_gcc.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/config/stl_confix.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/debug/_debug.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_ioserr.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_iosfwd.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/char_traits.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_cstddef.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stddef.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_cstring.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/string.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/../include/string.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/malloc.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/using/cstring \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/types.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/stdint.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/_types.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/machine/_types.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/linux/posix_types.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/linux/stddef.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/linux/compiler.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/asm/posix_types.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/asm/types.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/linux/types.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/machine/kernel.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/sysmacros.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_construct.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_new.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/../../gabi++/include/new \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/cstddef \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/../../gabi++/include/cstddef \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/exception \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/../../gabi++/include/exception \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/../../gabi++/include/gabixx_config.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_iterator_base.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_ptrs_specialize.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/type_traits.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/type_manips.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_move_construct_fwk.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_cwchar.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/../include/wchar.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/limits.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/../include/limits.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/limits.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/linux/limits.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/machine/internal_types.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/machine/limits.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/syslimits.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/asm/page.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stdio.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/../include/stdio.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stdarg.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/time.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/../include/time.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/time.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/linux/time.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/asm/siginfo.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/asm-generic/siginfo.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/_wchar_limits.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_mbstate_t.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_istream.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_ios.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_ios_base.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_stdexcept_base.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_exception.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_string_fwd.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_pair.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_locale.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_cstdlib.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stdlib.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/../include/stdlib.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/alloca.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/strings.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/memory.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_cmath.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/math.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/../include/math.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_threads.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/pthread.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/../include/pthread.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/signal.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/../include/signal.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/asm/signal.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/asm-generic/signal.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/asm/sigcontext.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/ucontext.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/user.h \
- /cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sched.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_threads.c \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_ctime.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_string.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_alloc.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_algobase.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/climits \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_algobase.c \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_function_base.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_iterator.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_alloc.c \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_uninitialized.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_string_base.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_string_npos.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_string_operators.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_string.c \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_ctraits_fns.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_function.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_function_adaptors.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_range_errors.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_facets_fwd.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_ctype.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/c_locale.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_numpunct.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_ios.c \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_streambuf.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_streambuf.c \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_ostream.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_ostreambuf_iterator.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_ostream.c \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_num_put.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_iostream_string.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_num_put.c \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_limits.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/cfloat \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/float.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_limits.c \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_istreambuf_iterator.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_istream.c \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_num_get.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_num_get.c \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_epilog.h \
- /cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h
+./obj/local/armeabi-v7a/objs-debug/hello/hello.o: jni/hello.cpp \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/iostream \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/__config \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/ios \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/iosfwd \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/wchar.h \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/__locale \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/string \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/string_view \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/__string \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/algorithm \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/initializer_list \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/cstddef \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/version \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/type_traits \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/cstring \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/string.h \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/utility \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/__tuple \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/cstdint \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/stdint.h \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/__debug \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/memory \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/typeinfo \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/exception \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/cstdlib \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/stdlib.h \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/new \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/limits \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/iterator \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/__functional_base \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/tuple \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/stdexcept \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/cassert \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/atomic \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/functional \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/bit \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/cstdio \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/stdio.h \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/cwchar \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/cwctype \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/cctype \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/ctype.h \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/wctype.h \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/mutex \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/__mutex_base \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/chrono \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/ctime \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/ratio \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/climits \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/limits.h \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/system_error \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/__errc \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/cerrno \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/errno.h \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/__threading_support \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/locale.h \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/support/android/locale_bionic.h \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/support/xlocale/__posix_l_fallback.h \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/streambuf \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/istream \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/ostream \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/locale \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/cstdarg \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/__bsd_locale_fallbacks.h \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/bitset \
+  /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/__bit_reference
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/iostream:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/iostream:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_prolog.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/__config:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_cprolog.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/ios:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/config/features.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/iosfwd:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_stlport_version.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/wchar.h:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/config/user_config.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/__locale:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/config/compat.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/string:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/config/host.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/string_view:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/config/_system.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/__string:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/config/_android.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/algorithm:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/cdefs.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/initializer_list:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/cdefs_elf.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/cstddef:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/android/api-level.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/version:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/config/_gcc.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/type_traits:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/config/stl_confix.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/cstring:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/string.h:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/debug/_debug.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/utility:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_ioserr.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/__tuple:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_iosfwd.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/cstdint:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/char_traits.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/stdint.h:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_cstddef.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/__debug:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stddef.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/memory:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_cstring.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/typeinfo:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/string.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/exception:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/../include/string.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/cstdlib:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/malloc.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/stdlib.h:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/using/cstring:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/new:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/types.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/limits:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/stdint.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/iterator:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/_types.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/__functional_base:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/machine/_types.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/tuple:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/linux/posix_types.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/stdexcept:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/linux/stddef.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/cassert:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/linux/compiler.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/atomic:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/asm/posix_types.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/functional:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/asm/types.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/bit:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/linux/types.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/cstdio:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/machine/kernel.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/stdio.h:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/sysmacros.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/cwchar:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_construct.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/cwctype:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_new.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/cctype:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/../../gabi++/include/new:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/ctype.h:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/cstddef:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/wctype.h:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/../../gabi++/include/cstddef:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/mutex:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/exception:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/__mutex_base:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/../../gabi++/include/exception:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/chrono:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/../../gabi++/include/gabixx_config.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/ctime:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_iterator_base.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/ratio:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_ptrs_specialize.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/climits:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/type_traits.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/limits.h:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/type_manips.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/system_error:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_move_construct_fwk.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/__errc:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_cwchar.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/cerrno:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/../include/wchar.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/errno.h:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/limits.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/__threading_support:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/../include/limits.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/locale.h:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/limits.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/support/android/locale_bionic.h:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/linux/limits.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/support/xlocale/__posix_l_fallback.h:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/machine/internal_types.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/streambuf:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/machine/limits.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/istream:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/syslimits.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/ostream:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/asm/page.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/locale:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stdio.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/cstdarg:
 
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/../include/stdio.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/__bsd_locale_fallbacks.h:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stdarg.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/bitset:
 
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/time.h:
-
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/../include/time.h:
-
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/time.h:
-
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/linux/time.h:
-
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/asm/siginfo.h:
-
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/asm-generic/siginfo.h:
-
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/_wchar_limits.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_mbstate_t.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_istream.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_ios.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_ios_base.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_stdexcept_base.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_exception.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_string_fwd.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_pair.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_locale.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_cstdlib.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stdlib.h:
-
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/../include/stdlib.h:
-
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/alloca.h:
-
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/strings.h:
-
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/memory.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_cmath.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/math.h:
-
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/../include/math.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_threads.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/pthread.h:
-
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/../include/pthread.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/signal.h:
-
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/../include/signal.h:
-
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/asm/signal.h:
-
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/asm-generic/signal.h:
-
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/asm/sigcontext.h:
-
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/ucontext.h:
-
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/user.h:
-
-/cygdrive/d/development/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sched.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_threads.c:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_ctime.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_string.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_alloc.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_algobase.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/climits:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_algobase.c:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_function_base.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_iterator.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_alloc.c:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_uninitialized.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_string_base.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_string_npos.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_string_operators.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_string.c:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_ctraits_fns.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_function.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_function_adaptors.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_range_errors.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_facets_fwd.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_ctype.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/c_locale.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_numpunct.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_ios.c:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_streambuf.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_streambuf.c:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_ostream.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_ostreambuf_iterator.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_ostream.c:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_num_put.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_iostream_string.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_num_put.c:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_limits.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/cfloat:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/float.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_limits.c:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_istreambuf_iterator.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_istream.c:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_num_get.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_num_get.c:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_epilog.h:
-
-/cygdrive/d/development/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h:
+/Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/__bit_reference:
