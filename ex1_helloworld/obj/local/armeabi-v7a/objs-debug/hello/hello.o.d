@@ -1,4 +1,4 @@
-./obj/local/armeabi-v7a/objs-debug/hello/hello.o: jni/hello.cpp \
+.//obj/local/armeabi-v7a/objs-debug/hello/hello.o: jni/hello.cpp \
   /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/iostream \
   /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/__config \
   /Users/hungly/Library/Android/android-ndk-r21d/sources/cxx-stl/llvm-libc++/include/ios \
